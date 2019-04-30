@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/wusiheng/4paradigm_tool/mkdata/target/scala-2.11/mkdata_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wusiheng/4paradigm_tool/mkdata/target/scala-2.11/classes/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/CreateData/DataCreater$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wusiheng/4paradigm_tool/mkdata/target/scala-2.11/classes/main/scala/CreateData/DataCreater$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wusiheng/4paradigm_tool/mkdata/target/scala-2.11/classes/main/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/CreateData[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wusiheng/4paradigm_tool/mkdata/target/scala-2.11/classes/main/scala/CreateData[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/CreateData/DataCreater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wusiheng/4paradigm_tool/mkdata/target/scala-2.11/classes/main/scala/CreateData/DataCreater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/CreateData/DataCreater$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wusiheng/4paradigm_tool/mkdata/target/scala-2.11/classes/main/scala/CreateData/DataCreater$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
