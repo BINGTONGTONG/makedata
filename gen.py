@@ -8,6 +8,9 @@ import uuid
 import datetime
 import time
 
+import os
+print(os.path())
+
 
 # cons.py
 CITY_LIST = map(str, range(100))
