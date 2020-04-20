@@ -1,14 +1,10 @@
 package main.scala.CreateData
 
-
-
 import java.io.{FileWriter, Writer}
 
 import scala.util.Random
 
-/**
-* Created by Zhao Qiang on 2016/12/8.
-*/
+
 object DataCreater {
 
 def main(args: Array[String]): Unit = {
